@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "dev": "react-scripts start"
+    "export": "next build && next export"
   }
 }
